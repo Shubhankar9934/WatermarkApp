@@ -1,0 +1,4 @@
+D:\WatermarkApp\WatermarkApp\obj\Debug\net5.0-windows\WatermarkApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WatermarkApp\WatermarkApp\obj\Debug\net5.0-windows\WatermarkApp.AssemblyInfoInputs.cache
+D:\WatermarkApp\WatermarkApp\obj\Debug\net5.0-windows\WatermarkApp.AssemblyInfo.cs
+D:\WatermarkApp\WatermarkApp\obj\Debug\net5.0-windows\WatermarkApp.csproj.CoreCompileInputs.cache

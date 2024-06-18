@@ -1,0 +1,14 @@
+D:\WatermarkApp\WatermarkApp\bin\Release\net6.0-windows\WatermarkApp.exe
+D:\WatermarkApp\WatermarkApp\bin\Release\net6.0-windows\WatermarkApp.deps.json
+D:\WatermarkApp\WatermarkApp\bin\Release\net6.0-windows\WatermarkApp.runtimeconfig.json
+D:\WatermarkApp\WatermarkApp\bin\Release\net6.0-windows\WatermarkApp.dll
+D:\WatermarkApp\WatermarkApp\bin\Release\net6.0-windows\WatermarkApp.pdb
+D:\WatermarkApp\WatermarkApp\obj\Release\net6.0-windows\WatermarkApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WatermarkApp\WatermarkApp\obj\Release\net6.0-windows\WatermarkApp.AssemblyInfoInputs.cache
+D:\WatermarkApp\WatermarkApp\obj\Release\net6.0-windows\WatermarkApp.AssemblyInfo.cs
+D:\WatermarkApp\WatermarkApp\obj\Release\net6.0-windows\WatermarkApp.csproj.CoreCompileInputs.cache
+D:\WatermarkApp\WatermarkApp\obj\Release\net6.0-windows\WatermarkApp.dll
+D:\WatermarkApp\WatermarkApp\obj\Release\net6.0-windows\refint\WatermarkApp.dll
+D:\WatermarkApp\WatermarkApp\obj\Release\net6.0-windows\WatermarkApp.pdb
+D:\WatermarkApp\WatermarkApp\obj\Release\net6.0-windows\WatermarkApp.genruntimeconfig.cache
+D:\WatermarkApp\WatermarkApp\obj\Release\net6.0-windows\ref\WatermarkApp.dll
